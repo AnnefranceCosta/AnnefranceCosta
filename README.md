@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 🔵🔵⚪⚪⚪ PHP/Python
 
 **Curiosidades sobre mim ♑**
-▪ Gosto de correr, cinema, ler e viajar.
-▪ Sou aquarista e minha cor preferida é o amarelo.
+▪ Gosto de correr, cinema e viajar.
+▪ Sou aquarista.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Annefrance%20Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annefrance-costa-a6aab4189/)](https://www.linkedin.com/in/annefrance-costa-a6aab4189/) 
 [![Gmail Badge](https://img.shields.io/badge/-annefrance.costa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annefrance.costa@gmail.com)
