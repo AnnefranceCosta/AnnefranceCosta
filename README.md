@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Olá, mundo! Sou a Annefrance Costa 🙋🏽‍♀️
+🌎 Desenvolvedora fullstack em progresso
+▪ Graduanda do 5° período de Sistemas de Informação pelo IFSudesteMG - Campus Juiz de Fora
+▪ Gosto de trabalhar em **equipe**, **proativa** e  **organizada**.
+▪ Sou **deslumbrada** pela área de desenvolvimento Web, sendo assim, guio minha formação profissional como desenvolvedora fullstack.
+▪ Pela enorme praticidade e flexibilidade sempre **invisto na educação a distância** possuindo certificações como: Desenvolvimento Web, Banco de dados, Marketing público/digital e Projeto de sistemas web.
+
+## Principais skills
+🔵🔵🔵🔵⚪  HTLM/CSS/JS
+🔵🔵🔵 ⚪⚪ Bootstrap
+🔵🔵🔵 ⚪⚪ Linguagem C e Java
+🔵🔵🔵 ⚪⚪ Ilustrator/Gimp/Mockflow
+🔵🔵⚪⚪⚪ PHP/Python
+
+**Curiosidades sobre mim ♑**
+▪ Gosto de correr, cinema, ler e viajar.
+▪ Sou aquarista e minha cor preferida é o amarelo.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Annefrance%20Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annefrance-costa-a6aab4189/)](https://www.linkedin.com/in/annefrance-costa-a6aab4189/) 
+[![Gmail Badge](https://img.shields.io/badge/-annefrance.costa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annefrance.costa@gmail.com)
