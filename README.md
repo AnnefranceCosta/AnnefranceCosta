@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 ▪ Gosto de correr, cinema e viajar.
 ▪ Sou aquarista.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Annefrance%20Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annefrance-costa-a6aab4189/.(https://www.linkedin.com/in/annefrance-costa-a6aab4189/) 
-[![Gmail Badge](https://img.shields.io/badge/-annefrance.costa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annefrance.costa@gmail.com)
+[
+![Linkedin Badge](https://img.shields.io/badge/-Annefrance%20Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annefrance-costa-a6aab4189/)](https://www.linkedin.com/in/annefrance-costa-a6aab4189/) 
+[![Gmail Badge](https://img.shields.io/badge/-annefrance.costa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annefrance.costa@gmail.com)](annefrance.costa@gmail.com)
