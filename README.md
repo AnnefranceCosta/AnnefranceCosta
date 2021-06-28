@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <li>🔵🔵🔵 ⚪⚪ Linguagem C e Java</li>
 <li>🔵🔵🔵 ⚪⚪ Ilustrator/Gimp/Mockflow</li>
 <li>🔵🔵⚪⚪⚪ PHP/Python</li>
-</ui>
+</ul>
 
 ###Curiosidades sobre mim ♑
 <ul>
