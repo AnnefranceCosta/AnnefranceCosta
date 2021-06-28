@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 </ui>
 
 **Curiosidades sobre mim ♑**
-▪ Gosto de correr, cinema e viajar.
-▪ Sou aquarista.
+<ul>
+<li> Gosto de correr, cinema e viajar.</li> 
+<li>  Sou aquarista.</li> 
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-Annefrance%20Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annefrance-costa-a6aab4189/)](https://www.linkedin.com/in/annefrance-costa-a6aab4189/) 
