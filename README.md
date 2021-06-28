@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🌎 Desenvolvedora fullstack em progresso
 <ul>
 <li>Graduanda do 5° período de Sistemas de Informação pelo IFSudesteMG - Campus Juiz de Fora</li>
-<li> Gosto de trabalhar em **equipe**, **proativa** e  **organizada**. </li>
+  <li> Gosto de trabalhar em <b>equipe, proativa e organizada</b>. </li>
 <li> Sou **deslumbrada** pela área de desenvolvimento Web, sendo assim, guio minha formação profissional como desenvolvedora fullstack. </li>
 <li> Pela enorme praticidade e flexibilidade sempre **invisto na educação a distância** possuindo certificações como: Desenvolvimento Web, Banco de dados, Marketing público/digital e Projeto de sistemas web.</li>
 </ul>
