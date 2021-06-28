@@ -19,16 +19,18 @@ Here are some ideas to get you started:
 <ul>
 <li>Graduanda do 5° período de Sistemas de Informação pelo IFSudesteMG - Campus Juiz de Fora</li>
   <li> Gosto de trabalhar em <b>equipe, proativa e organizada</b>. </li>
-<li> Sou **deslumbrada** pela área de desenvolvimento Web, sendo assim, guio minha formação profissional como desenvolvedora fullstack. </li>
-<li> Pela enorme praticidade e flexibilidade sempre **invisto na educação a distância** possuindo certificações como: Desenvolvimento Web, Banco de dados, Marketing público/digital e Projeto de sistemas web.</li>
+  <li> Sou <b>deslumbrada</b> pela área de desenvolvimento Web, sendo assim, guio minha formação profissional como desenvolvedora fullstack. </li>
+  <li> Pela enorme praticidade e flexibilidade sempre <b>invisto na educação a distância</b> possuindo certificações como: Desenvolvimento Web, Banco de dados, Marketing público/digital e Projeto de sistemas web.</li>
 </ul>
 
 ## Principais skills
-🔵🔵🔵🔵⚪  HTLM/CSS/JS
-🔵🔵🔵 ⚪⚪ Bootstrap
-🔵🔵🔵 ⚪⚪ Linguagem C e Java
-🔵🔵🔵 ⚪⚪ Ilustrator/Gimp/Mockflow
-🔵🔵⚪⚪⚪ PHP/Python
+<ul>
+<li>🔵🔵🔵🔵⚪  HTLM/CSS/JS</li>
+<li>🔵🔵🔵 ⚪⚪ Bootstrap</li>
+<li>🔵🔵🔵 ⚪⚪ Linguagem C e Java</li>
+<li>🔵🔵🔵 ⚪⚪ Ilustrator/Gimp/Mockflow</li>
+<li>🔵🔵⚪⚪⚪ PHP/Python</li>
+</ui>
 
 **Curiosidades sobre mim ♑**
 ▪ Gosto de correr, cinema e viajar.
