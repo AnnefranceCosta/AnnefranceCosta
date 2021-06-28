@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <li>🔵🔵⚪⚪⚪ PHP/Python</li>
 </ui>
 
-**Curiosidades sobre mim ♑**
+####Curiosidades sobre mim ♑
 <ul>
 <li> Gosto de correr, cinema e viajar.</li> 
 <li>  Sou aquarista.</li> 
