@@ -31,10 +31,11 @@ Here are some ideas to get you started:
 <li>🔵🔵⚪⚪⚪ PHP/Python</li>
 </ui>
 
-####Curiosidades sobre mim ♑
+###Curiosidades sobre mim ♑
 <ul>
 <li> Gosto de correr, cinema e viajar.</li> 
 <li>  Sou aquarista.</li> 
+</ul>
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-Annefrance%20Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annefrance-costa-a6aab4189/)](https://www.linkedin.com/in/annefrance-costa-a6aab4189/) 
