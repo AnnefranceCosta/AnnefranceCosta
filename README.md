@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 ## Olá, mundo! Sou a Annefrance Costa 🙋🏽‍♀️...
 🌎 Desenvolvedora fullstack em progresso
-▪ Graduanda do 5° período de Sistemas de Informação pelo IFSudesteMG - Campus Juiz de Fora
-▪ Gosto de trabalhar em **equipe**, **proativa** e  **organizada**.
-▪ Sou **deslumbrada** pela área de desenvolvimento Web, sendo assim, guio minha formação profissional como desenvolvedora fullstack.
-▪ Pela enorme praticidade e flexibilidade sempre **invisto na educação a distância** possuindo certificações como: Desenvolvimento Web, Banco de dados, Marketing público/digital e Projeto de sistemas web.
+<ul>
+<li>Graduanda do 5° período de Sistemas de Informação pelo IFSudesteMG - Campus Juiz de Fora</li>
+<li> Gosto de trabalhar em **equipe**, **proativa** e  **organizada**. </li>
+<li> Sou **deslumbrada** pela área de desenvolvimento Web, sendo assim, guio minha formação profissional como desenvolvedora fullstack. </li>
+<li> Pela enorme praticidade e flexibilidade sempre **invisto na educação a distância** possuindo certificações como: Desenvolvimento Web, Banco de dados, Marketing público/digital e Projeto de sistemas web.</li>
+</ul>
 
 ## Principais skills
 🔵🔵🔵🔵⚪  HTLM/CSS/JS
