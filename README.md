@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Principais skills
 <ul>
-<li>🔵🔵🔵🔵⚪  HTLM/CSS/JS</li>
+<li>🔵🔵🔵🔵⚪  HTML/CSS/JS</li>
 <li>🔵🔵🔵 ⚪⚪ Bootstrap</li>
 <li>🔵🔵🔵 ⚪⚪ Linguagem C e Java</li>
 <li>🔵🔵🔵 ⚪⚪ Ilustrator/Gimp/Mockflow</li>
