@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <ul>
 <li>Graduanda do 6° período de Sistemas de Informação pelo IFSudesteMG - Campus Juiz de Fora</li>
   <li> Gosto de trabalhar em <b>equipe, proativa e organizada</b>. </li>
-  <li> Sou <b>deslumbrada</b> pela área de desenvolvimento de aplicações Web</li>
+  <li> Sou <b>deslumbrada</b> pela área de desenvolvimento de aplicações Web.</li>
   <li> Pela enorme praticidade e flexibilidade sempre <b>invisto na educação a distância</b> possuindo certificações como: Desenvolvimento Web, Banco de dados, Marketing público/digital e Projeto de sistemas web.</li>
 </ul>
 
