@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá, mundo! Sou a Annefrance Costa 🙋🏽‍♀️...
-🌎 Desenvolvedora fullstack em progresso
+🌎 Desenvolvedora web em progresso
 <ul>
 <li>Graduanda do 6° período de Sistemas de Informação pelo IFSudesteMG - Campus Juiz de Fora</li>
   <li> Gosto de trabalhar em <b>equipe, proativa e organizada</b>. </li>
-  <li> Sou <b>deslumbrada</b> pela área de desenvolvimento Web, sendo assim, guio minha formação profissional como desenvolvedora fullstack. </li>
+  <li> Sou <b>deslumbrada</b> pela área de desenvolvimento de aplicações Web</li>
   <li> Pela enorme praticidade e flexibilidade sempre <b>invisto na educação a distância</b> possuindo certificações como: Desenvolvimento Web, Banco de dados, Marketing público/digital e Projeto de sistemas web.</li>
 </ul>
 
 ## Principais skills
 <ul>
-<li>🔵🔵🔵🔵⚪  HTML/CSS/JS</li>
-<li>🔵🔵🔵 ⚪⚪ Bootstrap</li>
-<li>🔵🔵🔵 ⚪⚪ Linguagem C e Java</li>
-<li>🔵🔵🔵 ⚪⚪ Ilustrator/Gimp/Mockflow</li>
-<li>🔵🔵⚪⚪⚪ PHP/Python</li>
+<li>🔵🔵🔵🔵⚪ HTML/CSS/JS</li>
+<li>🔵🔵🔵🔵⚪ Linguagem C e Java</li>
+<li>🔵🔵🔵🔵⚪ SQL</li>
+<li>🔵🔵⚪⚪⚪ PHP/Python</li> 
+<li>🔵🔵⚪⚪⚪ Ilustrator/Gimp/Mockflow</li>
 </ul>
 
 ### Curiosidades sobre mim ♑
