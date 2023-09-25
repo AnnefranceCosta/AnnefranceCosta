@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá, mundo! Sou a Annefrance Costa 🙋🏽‍♀️...
-🌎 Desenvolvedora web em progresso
+🌎 Desenvolvedora de software em progresso
 <ul>
 <li>Sistemas de Informação pelo IFSudesteMG - Campus Juiz de Fora</li>
   <li> Gosto de trabalhar em <b>equipe, proativa e organizada</b>. </li>
@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ## Principais skills
 <ul>
-<li>🔵🔵🔵🔵⚪ HTML/CSS/JS</li>
-<li>🔵🔵🔵🔵⚪ Linguagem C e Java</li>
+<li>🔵🔵🔵🔵🔵 Metodologias ágeis </li>
+<li>🔵🔵🔵🔵⚪ Linguagem C, Java e C# </li>
 <li>🔵🔵🔵🔵⚪ SQL</li>
-<li>🔵🔵⚪⚪⚪ PHP/Python</li> 
+<li>🔵🔵🔵⚪⚪ HTML/CSS/JS</li> 
 <li>🔵🔵⚪⚪⚪ Ilustrator/Gimp/Mockflow</li>
 </ul>
 
